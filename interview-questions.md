@@ -52,15 +52,17 @@ Your answer:
 div tag will that up the full witdth available and typically used as a container. span tag is inline element that takes up as much width as it needs.
 
 Researched answer:
+A div elemnt is used for block-level organization and styling of page elements, whereas a span elemt is used for inline organization and styling.
+
 
 ## Looking Ahead: Terms for Next Week
 
-1. Object-oriented programming: Programming with object-based models. 
+1. Object-oriented programming: Programming with object-based models where each object has its own characteristics
 
-2. Ruby: A back-end language
+2. Ruby: A dynamic and object-oriented language 
 
-3. Implicit return:
+3. Implicit return: A behavior where a return is expected but without explicitly using the return keyword
 
-4. Ruby blocks:
+4. Ruby blocks: A chunk of code that executes a logic
 
-5. Ruby hashes:
+5. Ruby hashes: similar to objects in javascript where there's a key-value pair involved.
